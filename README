@@ -1,5 +1,12 @@
-Cornell Information Science student projects Spring 2012
+Spring 2012 Scientometrics Projects: Project 1
 
-project 1: Mapping scientific research networks - cognitive overlay maps
-project 2: Mapping scientific research networks - geographic overlay maps
+to use the script: in linux/unix
 
+python DatafileConversion.py datafilename
+
+
+
+Changchen He
+Seung Hyun   
+
+///
