@@ -1,0 +1,224 @@
+   1 "Acoustics"                              0.7215    0.6254    0.5000
+   2 "Agricultural Economics & Policy"    0.6693    0.8515    0.5000
+   3 "Agricultural Engineering"               0.5688    0.2901    0.5000
+   4 "Agriculture, Dairy & Animal Science"    0.4066    0.1397    0.5000
+   5 "Agriculture, Multidisciplinary"         0.5306    0.2352    0.5000
+   6 "Agronomy"                               0.4750    0.1661    0.5000
+   7 "Allergy"                                0.3038    0.2683    0.5000
+   8 "Anatomy & Morphology"               0.4477    0.4127    0.5000
+   9 "Andrology"                              0.3919    0.2878    0.5000
+  10 "Anesthesiology"                         0.1939    0.4415    0.5000
+  11 "Anthropology"                           0.2611    0.8720    0.5000
+  12 "Area Studies"                           0.4405    0.9118    0.5000
+  13 "Astronomy & Astrophysics"           0.9505    0.4462    0.5000
+  14 "Automation & Control Systems"       0.7087    0.5656    0.5000
+  15 "Behavioral Sciences"                    0.4180    0.4904    0.5000
+  16 "Biochemical Research Methods"           0.5269    0.3807    0.5000
+  17 "Biochemistry & Molecular Biology"    0.4701    0.3809    0.5000
+  18 "Biodiversity Conservation"              0.4991    0.2265    0.5000
+  19 "Biology"                                0.4523    0.3715    0.5000
+  20 "Biophysics"                             0.4934    0.3695    0.5000
+  21 "Biotechnology & Applied Microbiology"    0.4942    0.3337    0.5000
+  22 "Business"                               0.5061    0.7996    0.5000
+  23 "Business, Finance"                      0.6350    0.8170    0.5000
+  24 "Cardiac & Cardiovascular Systems"    0.2530    0.3912    0.5000
+  25 "Cell & Tissue Engineering"          0.4371    0.3597    0.5000
+  26 "Cell Biology"                           0.4680    0.3658    0.5000
+  27 "Chemistry, Analytical"                  0.5762    0.4280    0.5000
+  28 "Chemistry, Applied"                     0.5750    0.3106    0.5000
+  29 "Chemistry, Inorganic & Nuclear"     0.6565    0.2640    0.5000
+  30 "Chemistry, Medicinal"                   0.5146    0.3930    0.5000
+  31 "Chemistry, Multidisciplinary"           0.6235    0.3427    0.5000
+  32 "Chemistry, Organic"                     0.5872    0.2888    0.5000
+  33 "Chemistry, Physical"                    0.6498    0.3563    0.5000
+  34 "Clinical Neurology"                     0.3137    0.4820    0.5000
+  35 "Communication"                          0.3151    0.8185    0.5000
+  36 "Computer Science, Artificial Intelligence"    0.6495    0.5641    0.5000
+  37 "Computer Science, Cybernetics"          0.6007    0.5899    0.5000
+  38 "Computer Science, Hardware & Architecture"    0.6776    0.5808    0.5000
+  39 "Computer Science, Information Systems"    0.6211    0.6100    0.5000
+  40 "Computer Science, Interdisciplinary Applications"    0.6118    0.5239    0.5000
+  41 "Computer Science, Software Engineering"    0.6600    0.6297    0.5000
+  42 "Computer Science, Theory & Methods"    0.6559    0.6015    0.5000
+  43 "Construction & Building Technology"    0.8082    0.3233    0.5000
+  44 "Criminology & Penology"             0.2090    0.7616    0.5000
+  45 "Critical Care Medicine"                 0.2504    0.4422    0.5000
+  46 "Crystallography"                        0.6411    0.3146    0.5000
+  47 "Cultural Studies"                       0.3293    0.9041    0.5000
+  48 "Demography"                             0.4238    0.7788    0.5000
+  49 "Dentistry, Oral Surgery & Medicine"    0.4039    0.4564    0.5000
+  50 "Dermatology"                            0.2607    0.2037    0.5000
+  51 "Developmental Biology"                  0.4585    0.3386    0.5000
+  52 "Ecology"                                0.5098    0.2484    0.5000
+  53 "Economics"                              0.5917    0.8020    0.5000
+  54 "Education & Educational Research"    0.1089    0.7432    0.5000
+  55 "Education, Scientific Disciplines"      0.2025    0.5412    0.5000
+  56 "Education, Special"                     0.1589    0.5859    0.5000
+  57 "Electrochemistry"                       0.7149    0.3616    0.5000
+  58 "Emergency Medicine"                     0.2002    0.4556    0.5000
+  59 "Endocrinology & Metabolism"         0.3943    0.3732    0.5000
+  60 "Energy & Fuels"                     0.7035    0.3320    0.5000
+  61 "Engineering, Aerospace"                 0.8366    0.5377    0.5000
+  62 "Engineering, Biomedical"                0.5025    0.4713    0.5000
+  63 "Engineering, Chemical"                  0.6720    0.3142    0.5000
+  64 "Engineering, Civil"                     0.7040    0.2974    0.5000
+  65 "Engineering, Electrical & Electronic"    0.6928    0.5346    0.5000
+  66 "Engineering, Environmental"             0.6291    0.2682    0.5000
+  67 "Engineering, Geological"                0.8052    0.1943    0.5000
+  68 "Engineering, Industrial"                0.7954    0.6046    0.5000
+  69 "Engineering, Manufacturing"             0.7936    0.5586    0.5000
+  70 "Engineering, Marine"                    0.8138    0.3587    0.5000
+  71 "Engineering, Mechanical"                0.7765    0.4732    0.5000
+  72 "Engineering, Multidisciplinary"         0.6980    0.4983    0.5000
+  73 "Engineering, Ocean"                     0.7715    0.2759    0.5000
+  74 "Engineering, Petroleum"                 0.7871    0.2535    0.5000
+  75 "Entomology"                             0.4012    0.2260    0.5000
+  76 "Environmental Sciences"                 0.5933    0.2630    0.5000
+  77 "Environmental Studies"                  0.5332    0.8657    0.5000
+  78 "Ergonomics"                             0.3817    0.6621    0.5000
+  79 "Ethics"                                 0.4582    0.8287    0.5000
+  80 "Ethnic Studies"                         0.3332    0.7682    0.5000
+  81 "Evolutionary Biology"                   0.4774    0.2876    0.5000
+  82 "Family Studies"                         0.2622    0.7301    0.5000
+  83 "Fisheries"                              0.5234    0.1493    0.5000
+  84 "Food Science & Technology"          0.5150    0.2573    0.5000
+  85 "Forestry"                               0.5123    0.1548    0.5000
+  86 "Gastroenterology & Hepatology"      0.2407    0.3102    0.5000
+  87 "Genetics & Heredity"                0.4825    0.3434    0.5000
+  88 "Geochemistry & Geophysics"          0.7907    0.1783    0.5000
+  89 "Geography"                              0.5263    0.9144    0.5000
+  90 "Geography, Physical"                    0.6829    0.2082    0.5000
+  91 "Geology"                                0.7441    0.1728    0.5000
+  92 "Geosciences, Multidisciplinary"         0.7295    0.2056    0.5000
+  93 "Geriatrics & Gerontology"           0.3542    0.4736    0.5000
+  94 "Gerontology"                            0.3741    0.6266    0.5000
+  95 "Health Care Sciences & Services"    0.3378    0.5303    0.5000
+  96 "Health Policy & Services"           0.3251    0.6207    0.5000
+  97 "Hematology"                             0.3514    0.3694    0.5000
+  98 "History"                                0.5429    0.8775    0.5000
+  99 "History & Philosophy Of Science"    0.4640    0.6493    0.5000
+ 100 "History Of Social Sciences"             0.5812    0.8248    0.5000
+ 101 "Horticulture"                           0.4495    0.1851    0.5000
+ 102 "Hospitality, Leisure, Sport & Tourism"    0.4196    0.8913    0.5000
+ 103 "Imaging Science & Photographic Technology"    0.7809    0.3576    0.5000
+ 104 "Immunology"                             0.3557    0.3298    0.5000
+ 105 "Industrial Relations & Labor"       0.4867    0.8157    0.5000
+ 106 "Infectious Diseases"                    0.3152    0.3614    0.5000
+ 107 "Information Science & Library Science"    0.6032    0.7469    0.5000
+ 108 "Instruments & Instrumentation"      0.6642    0.4724    0.5000
+ 109 "Integrative & Complementary Medicine"    0.4643    0.4355    0.5000
+ 110 "International Relations"                0.4753    0.9101    0.5000
+ 111 "Law"                                    0.2744    0.8142    0.5000
+ 112 "Limnology"                              0.6142    0.2163    0.5000
+ 113 "Linguistics"                            0.1037    0.6309    0.5000
+ 114 "Management"                             0.4711    0.7864    0.5000
+ 115 "Marine & Freshwater Biology"        0.5461    0.2019    0.5000
+ 116 "Materials Science, Biomaterials"        0.5569    0.4289    0.5000
+ 117 "Materials Science, Ceramics"            0.6807    0.3778    0.5000
+ 118 "Materials Science, Characterization & Testing"    0.7129    0.4263    0.5000
+ 119 "Materials Science, Coatings & Films"    0.6629    0.4123    0.5000
+ 120 "Materials Science, Composites"          0.7733    0.3997    0.5000
+ 121 "Materials Science, Multidisciplinary"    0.6493    0.3831    0.5000
+ 122 "Materials Science, Paper & Wood"    0.6515    0.1571    0.5000
+ 123 "Materials Science, Textiles"            0.7143    0.2742    0.5000
+ 124 "Mathematical & Computational Biology"    0.4958    0.4259    0.5000
+ 125 "Mathematics"                            0.7846    0.6920    0.5000
+ 126 "Mathematics, Applied"                   0.7078    0.6608    0.5000
+ 127 "Mathematics, Interdisciplinary Applications"    0.6282    0.5723    0.5000
+ 128 "Mechanics"                              0.7339    0.4975    0.5000
+ 129 "Medical Ethics"                         0.3773    0.5604    0.5000
+ 130 "Medical Informatics"                    0.4664    0.5291    0.5000
+ 131 "Medical Laboratory Technology"          0.3875    0.3940    0.5000
+ 132 "Medicine, General & Internal"       0.3439    0.4457    0.5000
+ 133 "Medicine, Legal"                        0.3821    0.2849    0.5000
+ 134 "Medicine, Research & Experimental"    0.4251    0.3832    0.5000
+ 135 "Metallurgy & Metallurgical Engineering"    0.6899    0.4058    0.5000
+ 136 "Meteorology & Atmospheric Sciences"    0.6978    0.1717    0.5000
+ 137 "Microbiology"                           0.4000    0.3269    0.5000
+ 138 "Microscopy"                             0.5367    0.3924    0.5000
+ 139 "Mineralogy"                             0.8380    0.2139    0.5000
+ 140 "Mining & Mineral Processing"        0.7558    0.3526    0.5000
+ 141 "Multidisciplinary Sciences"             0.4764    0.3961    0.5000
+ 142 "Mycology"                               0.4462    0.2999    0.5000
+ 143 "Nanoscience & Nanotechnology"       0.6318    0.3876    0.5000
+ 144 "Neuroimaging"                           0.3917    0.5157    0.5000
+ 145 "Neurosciences"                          0.3936    0.4805    0.5000
+ 146 "Nuclear Science & Technology"       0.7894    0.4332    0.5000
+ 147 "Nursing"                                0.1877    0.5711    0.5000
+ 148 "Nutrition & Dietetics"              0.4136    0.3154    0.5000
+ 149 "Obstetrics & Gynecology"            0.2912    0.2723    0.5000
+ 150 "Oceanography"                           0.6060    0.1768    0.5000
+ 151 "Oncology"                               0.3712    0.3178    0.5000
+ 152 "Operations Research & Management Science"    0.7480    0.5865    0.5000
+ 153 "Ophthalmology"                          0.3548    0.4177    0.5000
+ 154 "Optics"                                 0.7672    0.4676    0.5000
+ 155 "Ornithology"                            0.4471    0.2146    0.5000
+ 156 "Orthopedics"                            0.1730    0.3962    0.5000
+ 157 "Otorhinolaryngology"                    0.1535    0.3377    0.5000
+ 158 "Paleontology"                           0.6872    0.1222    0.5000
+ 159 "Parasitology"                           0.3644    0.3832    0.5000
+ 160 "Pathology"                              0.3979    0.3500    0.5000
+ 161 "Pediatrics"                             0.2763    0.4181    0.5000
+ 162 "Peripheral Vascular Disease"            0.3076    0.3906    0.5000
+ 163 "Pharmacology & Pharmacy"            0.4369    0.4211    0.5000
+ 164 "Physics, Applied"                       0.6384    0.4358    0.5000
+ 165 "Physics, Atomic, Molecular & Chemical"    0.7222    0.3972    0.5000
+ 166 "Physics, Condensed Matter"              0.6467    0.4205    0.5000
+ 167 "Physics, Fluids & Plasmas"          0.7739    0.5324    0.5000
+ 168 "Physics, Mathematical"                  0.7338    0.5391    0.5000
+ 169 "Physics, Multidisciplinary"             0.7503    0.4742    0.5000
+ 170 "Physics, Nuclear"                       0.8572    0.5071    0.5000
+ 171 "Physics, Particles & Fields"        0.8668    0.4623    0.5000
+ 172 "Physiology"                             0.4183    0.4343    0.5000
+ 173 "Planning & Development"             0.5418    0.8224    0.5000
+ 174 "Plant Sciences"                         0.4553    0.2413    0.5000
+ 175 "Political Science"                      0.3855    0.8937    0.5000
+ 176 "Polymer Science"                        0.7256    0.3267    0.5000
+ 177 "Primary Health Care"                    0.3113    0.4939    0.5000
+ 178 "Psychiatry"                             0.3005    0.5371    0.5000
+ 179 "Psychology"                             0.3556    0.5498    0.5000
+ 180 "Psychology, Applied"                    0.4185    0.7663    0.5000
+ 181 "Psychology, Biological"                 0.3854    0.5641    0.5000
+ 182 "Psychology, Clinical"                   0.2661    0.6448    0.5000
+ 183 "Psychology, Developmental"              0.2275    0.6730    0.5000
+ 184 "Psychology, Educational"                0.1848    0.6875    0.5000
+ 185 "Psychology, Experimental"               0.2683    0.5903    0.5000
+ 186 "Psychology, Mathematical"               0.2937    0.6091    0.5000
+ 187 "Psychology, Multidisciplinary"          0.3160    0.6639    0.5000
+ 188 "Psychology, Psychoanalysis"             0.1278    0.5524    0.5000
+ 189 "Psychology, Social"                     0.2937    0.7352    0.5000
+ 190 "Public Administration"                  0.4182    0.8434    0.5000
+ 191 "Public, Environmental & Occupational Health"    0.3666    0.5550    0.5000
+ 192 "Radiology, Nuclear Medicine & Medical Imaging"    0.4573    0.5552    0.5000
+ 193 "Rehabilitation"                         0.2162    0.5059    0.5000
+ 194 "Remote Sensing"                         0.8028    0.3006    0.5000
+ 195 "Reproductive Biology"                   0.3600    0.2436    0.5000
+ 196 "Respiratory System"                     0.2669    0.3633    0.5000
+ 197 "Rheumatology"                           0.1981    0.2811    0.5000
+ 198 "Robotics"                               0.7427    0.6323    0.5000
+ 199 "Social Issues"                          0.3331    0.7272    0.5000
+ 200 "Social Sciences, Biomedical"            0.3493    0.6345    0.5000
+ 201 "Social Sciences, Interdisciplinary"     0.3731    0.7199    0.5000
+ 202 "Social Sciences, Mathematical Methods"    0.5657    0.7581    0.5000
+ 203 "Social Work"                            0.2351    0.7027    0.5000
+ 204 "Sociology"                              0.3529    0.8052    0.5000
+ 205 "Soil Science"                           0.5669    0.1366    0.5000
+ 206 "Spectroscopy"                           0.6101    0.4074    0.5000
+ 207 "Sport Sciences"                         0.2359    0.4226    0.5000
+ 208 "Statistics & Probability"           0.5303    0.5611    0.5000
+ 209 "Substance Abuse"                        0.2906    0.5856    0.5000
+ 210 "Surgery"                                0.2284    0.3770    0.5000
+ 211 "Telecommunications"                     0.7225    0.5855    0.5000
+ 212 "Thermodynamics"                         0.7755    0.4304    0.5000
+ 213 "Toxicology"                             0.4955    0.4005    0.5000
+ 214 "Transplantation"                        0.2972    0.3379    0.5000
+ 215 "Transportation"                         0.4119    0.6805    0.5000
+ 216 "Transportation Science & Technology"    0.8069    0.4782    0.5000
+ 217 "Tropical Medicine"                      0.3166    0.4430    0.5000
+ 218 "Urban Studies"                          0.5797    0.8723    0.5000
+ 219 "Urology & Nephrology"               0.2514    0.2683    0.5000
+ 220 "Veterinary Sciences"                    0.3198    0.1826    0.5000
+ 221 "Virology"                               0.4006    0.4045    0.5000
+ 222 "Water Resources"                        0.6548    0.2379    0.5000
+ 223 "Women"                                  0.2964    0.7123    0.5000
+ 224 "Zoology"                                0.4345    0.3018    0.5000

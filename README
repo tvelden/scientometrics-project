@@ -1,9 +1,12 @@
 Spring 2012 Scientometrics Projects: Project 1
 
 to use the script: in linux/unix
-
 python DatafileConversion.py datafilename
 
+usage of makeVecFile.py:
+It needs a template file list.txt to track all of subjects. 
+
+python MakeVecFile.py  data.txt
 
 
 Changchen He
