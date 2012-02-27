@@ -8,6 +8,9 @@ It needs a template file list.txt to track all of subjects.
 
 python MakeVecFile.py  data.txt
 
+area-article.py : Feb-26  Read the pck files. generate dec files
+
+
 
 Changchen He
 Seung Hyun   
