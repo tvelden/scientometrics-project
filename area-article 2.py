@@ -65,7 +65,7 @@ def getSortedKey(dict):
         s.reverse()
 
         sortedListKey = []
-        for a, b in s[0:8]:
+        for a, b in s[0:11]:
                 sortedListKey.append(a)
 
         return sortedListKey
@@ -97,7 +97,7 @@ def MakeEachVecFile(keyValue, listItem):
                                         listCA[ca] = listCA[ca] + 1
 
         ####make vec file for each key
-        filename = str('field1key'+ keyValue + '.vec')
+        filename = str('field2key'+ keyValue + '.vec')
         f = open(filename, 'w')
 
         f.write("\n")
@@ -149,7 +149,7 @@ CurrentIndex = ''
 CurrentID = ''
 CurrentCategoryList = list()
 
-inputfilename = 'in.txt'
+inputfilename = 'in2.txt'
 readfile(inputfilename)
 
 
@@ -180,7 +180,7 @@ for a in List8topic:
 #        print key + ":" + str(value)
 
 #### make vec file                        
-f = open('static.vec', 'w')
+f = open('static2.vec', 'w')
 
 f.write("\n")
 f.write("*Vertices " + str(sequence-1) + "\n")
