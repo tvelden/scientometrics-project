@@ -70,6 +70,47 @@ def getSortedKey(dict):
 
         return sortedListKey
 
+def MakeEachVecFile(keyValue, listItem):
+        f = open('list.txt', 'r')
+        sequenceCA = {}
+        sequence = 1
+        listCA = {}
+
+        while True:
+                line = f.readline()
+                if len(line)==0:
+                        break
+                else:
+                        keys = line.split("\"")
+                        listName = str(keys[1]).strip()
+        ###### make a dictionary key: value = (CA name : # of article)
+                        sequenceCA[sequence] = str(listName).lower()
+                        listCA[str(listName).lower()] = 0
+                        sequence += 1
+        f.close()
+
+        
+        for item in listItem:
+                if item in ArticleDict:                        
+                        for ca in ArticleDict[item]:
+                                if ca in listCA:
+                                        listCA[ca] = listCA[ca] + 1
+
+        ####make vec file for each key
+        filename = str('field1key'+ keyValue + '.vec')
+        f = open(filename, 'w')
+
+        f.write("\n")
+        f.write("*Vertices " + str(sequence-1) + "\n")
+        count = 1
+
+        for key, value in sequenceCA.items():
+                f.write(str(listCA[value]) + "\n")
+                #print str(listCA[value])
+
+        print filename, 'is done for', keyValue
+        f.close()        
+
 f = open('list.txt', 'r')
 sequenceCA = {}
 sequence = 1
@@ -122,7 +163,9 @@ readfile(inputfilename)
 List8topic = []
 for key in listKey: 
         List8topic.append(data1[key])
+        MakeEachVecFile(key, data1[key])
 
+test = 0
 for a in List8topic:
         for item in a:
                 if item in ArticleDict:                        
@@ -133,8 +176,8 @@ for a in List8topic:
                                         test += 1
                                         print ca
 
-for key, value in listCA.items():
-        print key + ":" + str(value)
+#for key, value in listCA.items():
+#        print key + ":" + str(value)
 
 #### make vec file                        
 f = open('static.vec', 'w')
@@ -149,7 +192,9 @@ for key, value in sequenceCA.items():
     #print n
     #f. write(str(n) + "\n")
     f.write(str(listCA[value]) + "\n")
-    print str(listCA[value])
+    #print str(listCA[value])
+
+print 'static.vec is done for total'
 f.close()
                 
 

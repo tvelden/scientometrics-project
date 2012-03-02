@@ -1,14 +1,15 @@
 Spring 2012 Scientometrics Projects: Project 1
 
 to use the script: in linux/unix
-python DatafileConversion.py datafilename
+[python DatafileConversion.py datafilename]
 
-usage of makeVecFile.py:
+[usage of makeVecFile.py:
 It needs a template file list.txt to track all of subjects. 
+python MakeVecFile.py  data.txt]
 
-python MakeVecFile.py  data.txt
+[area-article.py : Feb-26  Read the pck files. generate vec files]
 
-area-article.py : Feb-26  Read the pck files. generate dec files
+[productiveResearcher.py: March 2nd, Read author pck file, generate vec files.]
 
 
 
